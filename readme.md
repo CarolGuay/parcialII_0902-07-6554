@@ -1,0 +1,1 @@
+Para desarrollar el sitio web se utilizo html, css. y todo el codigo se subio a un repositorio de gitHub.
